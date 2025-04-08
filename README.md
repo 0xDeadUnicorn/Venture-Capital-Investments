@@ -1,2 +1,2 @@
 # Starchain
-Starchain repos
+Starchain repo
