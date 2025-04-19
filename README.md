@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- | <a href="S-Tier.md"> ⭐S-Tier⭐</a> |
+ | <a href="S-Tier.md"> S-Tier</a> |
 </p>
 
 |PROJECT|VC|RAISED|CATEGORY|DESCRIPTION|LINKS|Activities
