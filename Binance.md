@@ -1,4 +1,4 @@
-<h1 align="center"><a href="README.md">Venture Capital Investments</a></h1>
+# <h1 align="center">Binance Venture Capital Investments</h1>
 <p align="center">
   <a href="a16z.md">a16z</a> |
   <a href="Binance.md">Binance</a> |
