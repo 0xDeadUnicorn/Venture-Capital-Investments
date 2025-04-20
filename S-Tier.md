@@ -10,6 +10,10 @@
   <a href="Sequoia.md">Sequoia</a>
 </p>
 
+<p align="center">
+ | <a href="S-Tier.md"> S-Tier</a> |
+</p>
+
 |PROJECT|VC|RAISED|CATEGORY|DESCRIPTION|LINKS|Activities
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | Farcaster | Paradigm(Lead)<br>a16z(Lead) | [$180M](https://crypto-fundraising.info/projects/farcaster/) | Social | Sufficiently decentralized social network built on Ethereum. It is an open protocol that supports multiple clients. | [Site](https://www.farcaster.xyz/)<br>[Twitter](https://twitter.com/farcaster_xyz) | - |
