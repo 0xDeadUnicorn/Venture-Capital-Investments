@@ -16,5 +16,6 @@
 | Strata | Ethena (Converge) Ecosystem | - | DeFi | Structured Yield Products | [Site](https://www.strata.money/)<br>[Twitter](https://x.com/strata_money) | [Pre-deposit](https://deposit.strata.money/#/predeposit) |
 | Extended | Ex-Revolut Team | [Revolut](https://crypto-fundraising.info/projects/revolut/) | Perp Dex | Perp Dex | [Site](https://extended.exchange/)<br>[Twitter](https://x.com/extendedapp) | [Vault](https://app.extended.exchange/vault) |
 
+
 |-------------|-------------|-------------|
 | Ekubo | DEX | [LP]([https://app.extended.exchange/vault](https://evm.ekubo.org/positions)) |
