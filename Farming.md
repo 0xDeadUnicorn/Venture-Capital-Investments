@@ -15,4 +15,4 @@
 | Terminal Finance | Ethena (Converge) Ecosystem | - | DeFi | The marketplace for trading institutional assets and reward-bearing digital dollars | [Site](https://terminal.fi/)<br>[Twitter](https://x.com/Terminal_fi) | [Vaults](https://terminal.fi/roots) |
 | Strata | Ethena (Converge) Ecosystem | - | DeFi | Structured Yield Products | [Site](https://www.strata.money/)<br>[Twitter](https://x.com/strata_money) | [Pre-deposit](https://deposit.strata.money/#/predeposit) |
 | Extended | Ex-Revolut Team | [Revolut](https://crypto-fundraising.info/projects/revolut/) | Perp Dex | Perp Dex | [Site](https://extended.exchange/)<br>[Twitter](https://x.com/extendedapp) | [Vault](https://app.extended.exchange/vault) |
-| Ekubo | DEX | | | | | [LP](https://evm.ekubo.org/positions) |
+| Ekubo | DEX | | | 15-20% APR on USDT/USDC | | [LP](https://evm.ekubo.org/positions) |
