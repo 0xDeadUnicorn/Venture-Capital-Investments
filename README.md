@@ -3,7 +3,7 @@
 <p align="center">
   <a href="README.md"> All Tiers</a> |
   <a href="S-Tier.md"> S-Tier</a> |
-  <a href="Farming.md"> Farming</a> |
+  <a href="Farming.md"> Farming</a>
 </p>
 
 <p align="center">
